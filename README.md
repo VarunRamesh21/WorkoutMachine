@@ -11,7 +11,7 @@ can be customized to any workout of your choosing and can be updated accordingly
 ## How it works
   
 Here is the flowchart for how the program works:
-![Here is the flowerchart for how the program works:](Flowchart.png)
+![Here is the flowerchart for how the program works:](docs/Flowchart.png)
 
 - **Pick a Day:** you can choose push day, pull day, or leg day from the menu.  
 - **Make the Workout:** then choose which exercises to add to that day from the exercise list.  
