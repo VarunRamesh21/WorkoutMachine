@@ -23,7 +23,7 @@ Here is the flowchart for how the program works:
 - **Language:** Java
 - **Libraries:** Java.util, Java.IO - this is from the standard library
 - **Other tools:** N/A for now
-- **Where will data be stored?:** In a file called "workouts.txt".
+- **Where will data be stored?:** In a file called "workouts.txt" created by the program.
 
 ## Setup  
 You can clone the repository and run it using a bash terminal.  
