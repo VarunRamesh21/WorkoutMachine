@@ -1,3 +1,5 @@
-public class Push {
-    
+public class Push extends Workout{
+    public Push() {
+        
+    }
 }
