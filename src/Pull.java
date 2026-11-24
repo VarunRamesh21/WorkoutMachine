@@ -1,7 +1,7 @@
 public class Pull extends Workout{
     public Pull() {
 
-    super("Push", new Exercise[] {
+    super("Pull", new Exercise[] {
             new Exercise("Lat Pulldown"),
             new Exercise("Pullups"),
             new Exercise("Bicep Curl"),
