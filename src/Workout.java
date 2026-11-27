@@ -22,6 +22,10 @@ public class Workout {
         return chosenExercise[index];
     }
 
+    public Exercise[] getAvailibleExercises() {
+        return availibleExercisesPerDay;
+    }
+
     public boolean addExercise(Exercise e) {
         if (exerciseCount >= 20) {
             return false;
